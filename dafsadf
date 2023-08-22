@@ -1,0 +1,517 @@
+[33mcommit 42f1e64d0f4e7ef25065b1234f995bf20a05e2b2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: zacharymiller <zacharymiller0818@gmail.com>
+Date:   Sun Aug 13 12:04:44 2023 +0300
+
+    my portfolio
+
+[33mcommit 0058ed38422aa9268e1c2c5d0a4110305812fa3b[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Tue Aug 1 08:09:41 2023 -0700
+
+    Remove required yarn plugin
+
+[33mcommit c34468967021f01b88520315d81c06e3b8f7cf37[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Tue Aug 1 08:09:01 2023 -0700
+
+    Full yarn dep upgrade
+
+[33mcommit d650b5b8fdb78bc20e39f0da0eacd401923c1eb8[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Tue Aug 1 08:04:00 2023 -0700
+
+    Update instagram link
+
+[33mcommit 6ed7bd4f6a8a7d4c459673c5353945e8791a43f2[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Tue Aug 1 08:00:18 2023 -0700
+
+    Add link to footer
+
+[33mcommit 2b1d5b2685aaf9131e0d9f3635df9a4275eda74c[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Tue Aug 1 07:43:59 2023 -0700
+
+    Update portfolio link urls
+
+[33mcommit 03759d93476db7a7b585829ad299cf4fc5c41ecd[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Mon May 8 07:39:12 2023 -0700
+
+    remove log
+
+[33mcommit d3d9adf146c3080432f755971e6a82adf78744b9[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Fri May 5 07:55:26 2023 -0700
+
+    Upgrade all dependencies & fix overscroll issue
+
+[33mcommit dfb53249b2624f32eef7937d5457d5e6affdf592[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Fri Feb 3 06:49:21 2023 -0800
+
+    Update README
+    
+    Signed-off-by: Tim Baker <tbakerx@gmail.com>
+
+[33mcommit ad58c4142eace8e409986e027a047922ed920f32[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Jan 20 09:38:00 2023 -0800
+
+    Bump json5 from 1.0.1 to 1.0.2 (#84)
+    
+    Bumps [json5](https://github.com/json5/json5) from 1.0.1 to 1.0.2.
+    - [Release notes](https://github.com/json5/json5/releases)
+    - [Changelog](https://github.com/json5/json5/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/json5/json5/compare/v1.0.1...v1.0.2)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: json5
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+    Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
+[33mcommit 4ab98e861a1e29a0f8ab90c841c34e035a33903a[m
+Author: ChamRun <chrm@aut.ac.ir>
+Date:   Thu Nov 24 17:51:21 2022 +0330
+
+    change `overflow-y-scroll` to `overflow-y-auto` (#72)
+
+[33mcommit 16d8ad9d44a0f11ffe93cfa6964b5a421d361115[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sat Sep 17 07:29:33 2022 -0700
+
+    Update README.md
+    
+    Signed-off-by: Tim Baker <tbakerx@gmail.com>
+
+[33mcommit b5d1d389e7327f154a10907cc59515180fbf3997[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sat Sep 17 07:17:04 2022 -0700
+
+    Use page title and description from data file (#70)
+
+[33mcommit 52d94e86e1488b9f352455ca5ec9463fa9bcde1f[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Wed Sep 14 07:25:47 2022 -0700
+
+    portfolio: Use static images and next/image
+
+[33mcommit 6e051fc64999df7c632219beb2291b0106d3711a[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Sep 11 09:29:45 2022 -0700
+
+    Fix unsplash random images for portfolio
+
+[33mcommit e5d4b8de8c3f6b3b07c97e7b64b3270ffe3202d1[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Fri Sep 9 16:12:12 2022 -0700
+
+    Update README.md
+    
+    Signed-off-by: Tim Baker <tbakerx@gmail.com>
+
+[33mcommit 40166a0ee3d684899fa83e60824613c7863519e1[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Thu Sep 8 08:35:32 2022 -0700
+
+    2.0.0
+
+[33mcommit 43184904f3197d29d633d7ec4a1b828e44cf0050[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Thu Sep 8 08:34:04 2022 -0700
+
+    Update README image
+
+[33mcommit 25b08479ddcc6e26790cd0c39a7a304ff7e1d03c[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Thu Sep 8 08:22:50 2022 -0700
+
+    Fix parallax on iOS
+
+[33mcommit d5710ba2058e61ab06234a5aa29fc382e7076caf[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Tue Sep 6 18:34:35 2022 -0700
+
+    Update README
+
+[33mcommit b6c5cb1612c68a29c850121517de4f682f204a1e[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Tue Sep 6 18:27:57 2022 -0700
+
+    Content updates
+
+[33mcommit dd5db4917a69df38f905b81fc51edb6d7c871142[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Tue Aug 30 08:22:20 2022 -0700
+
+    Add header navigation
+
+[33mcommit 1b093a650bc573de508a04fbd0b5638091c575a1[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Tue Aug 30 08:09:07 2022 -0700
+
+    Add footer section
+
+[33mcommit bba5e7eebfbfb1daf97d63a05fdb999e6f62f504[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sat Aug 27 07:57:11 2022 -0700
+
+    Add contact section
+
+[33mcommit 90516836cd203b523e81c110a0ea667bfff4b192[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Wed Aug 17 08:56:42 2022 -0700
+
+    Add testimonial section
+
+[33mcommit adfe78dd114892a14f1806b197c4855f5ef26e31[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Mon Aug 15 07:52:59 2022 -0700
+
+    Add portfolio section
+
+[33mcommit 763706734a63be5382e0620b2fe4aa56d5e46e52[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Mon Aug 8 08:05:59 2022 -0700
+
+    Add Resume section, experience/education/skills
+
+[33mcommit 811e891ccca6f8cd26449694127e6ecc4ff7b48c[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Mon Aug 8 08:05:27 2022 -0700
+
+    add previous favicon for now
+
+[33mcommit 4955cde0ffd7e595b8b0a90dcc3a9e068e8b6213[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Jul 24 11:28:01 2022 -0700
+
+    Add About section
+
+[33mcommit d5be2828cad87f53731e8d884e6c4965ae7dfdf2[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Fri Jul 22 08:45:22 2022 -0700
+
+    Add Hero section, socials+icons, update data
+
+[33mcommit caf18d5139f3bfd8094167e8117945ac79c62b0f[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Thu Jul 21 08:14:23 2022 -0700
+
+    Add Section component
+
+[33mcommit a7383d094accf7351a7a5e19af9aff88bd1cff03[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Thu Jul 21 07:49:11 2022 -0700
+
+    Add preliminary data model definition
+
+[33mcommit f31974b27060611958b94698f813d3e2502a6710[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Mon Jul 11 08:41:46 2022 -0700
+
+    Add images from previous version
+
+[33mcommit 82f1642216843da30b2a9f30a36baa495af69514[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Mon Jul 11 08:30:18 2022 -0700
+
+    Bring readme from previous version
+
+[33mcommit e1e83d3d33bc79b82834e4234821a52e9268a690[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Mon Jul 11 08:14:09 2022 -0700
+
+    quiet prefixer warnings. update next.config.js
+
+[33mcommit 61be8e39656c1c044a6e09d74b680b8d37dafd17[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Thu Jun 30 15:43:03 2022 -0700
+
+    Begin work on v2
+
+[33mcommit bd497a118f6ba8f7755c4c848dc8cf2be6ebce85[m[33m ([m[1;33mtag: v1.0.0[m[33m)[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Thu Jul 21 07:13:23 2022 -0700
+
+    1.0.0
+
+[33mcommit 3f780a418600611392e6783011feed4792f8906c[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sat Apr 17 13:38:34 2021 -0700
+
+    Remove google plus and skype links
+
+[33mcommit b430f942d2b1640a60b4df05258af0c5c390a55b[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sat Apr 17 13:17:06 2021 -0700
+
+    .
+
+[33mcommit 0a82d04aef69239b9ec3ed312b68bd68537ee909[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Apr 4 20:26:50 2021 -0700
+
+    Update README.md
+
+[33mcommit d22a583116f3f46e7ef493ebf8d1e3a1f6a376d0[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Apr 4 12:35:05 2021 -0700
+
+    Create FUNDING.yml
+
+[33mcommit 39c94face9e3a424a81716ac49acccdd0a799246[m
+Merge: 6448530 ac7f80c
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Tue Nov 19 16:07:42 2019 -0800
+
+    Merge pull request #6 from alminisl/LayoutFix
+    
+    Fixed typo in layout
+
+[33mcommit 64485308054ac2895630ec22f21ddd67f2287804[m
+Merge: c24ee2e b942cbe
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Tue Nov 19 16:07:20 2019 -0800
+
+    Merge pull request #10 from myersjac/master
+    
+    Update Contact.js
+
+[33mcommit c24ee2ebce24941057ad14acb77f6ada7d1beb0a[m
+Merge: 30d6602 f8f9fd9
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Tue Nov 19 16:06:45 2019 -0800
+
+    Merge pull request #11 from dh4u/patch-1
+    
+    Update Contact.js - Remove "/>" From Showing
+
+[33mcommit f8f9fd9ce2a02cf727b69e63700bb7c739adc16a[m
+Author: dh4u <40501523+dh4u@users.noreply.github.com>
+Date:   Thu Apr 25 16:10:49 2019 -0400
+
+    Update Contact.js - Remove "/>" From Showing
+    
+    In the Contact section the Subject and Message labels have a "/>" above them when viewed in the browser.
+
+[33mcommit b942cbee1d4d4020e92394a56d84096ce5fbc998[m
+Author: Jacob Myers <myersjac@umich.edu>
+Date:   Mon Mar 18 12:13:46 2019 -0400
+
+    Update Contact.js
+
+[33mcommit ac7f80cc07a0470da3bdeb056db9200dc07965c9[m
+Author: Almin <almin.islamovic@gmail.com>
+Date:   Wed Oct 3 18:17:48 2018 +0200
+
+    Fixed typo in layout
+
+[33mcommit 30d6602f3fa4438aaf73440fe0f6e9b0c758a2f4[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Jul 22 20:05:50 2018 -0700
+
+    Update Contact.js
+    
+    added onChange handler
+
+[33mcommit b7de5d60fbf0a3c27e989af230b808ab81ec5188[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Jul 22 19:57:20 2018 -0700
+
+    Update Contact.js
+    
+    changed value="" on contact form inputs to defaultValue="". Solution thanks to @simonmackinnon
+
+[33mcommit f879d04d596fc3096a9b32d2265b5c4bd5c883b2[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Wed May 9 20:49:28 2018 -0700
+
+    Update README.md
+
+[33mcommit 179975295050f902e6747789185332ff25db4c74[m
+Merge: 279666e 482762f
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sat Dec 9 14:33:38 2017 +0700
+
+    Merge pull request #1 from tbakerx/add-license-1
+    
+    Create LICENSE
+
+[33mcommit 482762fdbc7b02ce6fe38d3b16a9db312cbbace1[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sat Dec 9 14:33:18 2017 +0700
+
+    Create LICENSE
+
+[33mcommit 279666e2e499917e58ea117536fd2c73ab0e296c[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sat Dec 9 13:20:14 2017 +0700
+
+    Update README.md
+
+[33mcommit c675cd2baf2af3ab7c50ce915362c41a4447a37d[m
+Merge: 47a964a abc22c7
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sat Dec 9 13:16:15 2017 +0700
+
+    Merge branch 'master' of https://github.com/tbakerx/react-resume-template
+
+[33mcommit 47a964a556c50a62103fd8786eb824fa77699b87[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sat Dec 9 13:15:38 2017 +0700
+
+    Fixed location error in ajax request for loading resumeData.json
+
+[33mcommit abc22c79f348ffbf2f18e552fbaa152aa52b137e[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Dec 3 21:00:48 2017 +0700
+
+    Update README.md
+
+[33mcommit 6d887d8f3f32393f42424e78f7b659f582dd55c1[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Dec 3 20:55:17 2017 +0700
+
+    Update README.md
+
+[33mcommit e5e0ed3f2d67f1b00d9d9c0a00d8a8c27419c1e8[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Dec 3 20:52:51 2017 +0700
+
+    Reworked Google Analytics using ReactGA
+
+[33mcommit 15c7c3cab5253a39f9b981621e262bdfee005216[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Dec 3 20:33:15 2017 +0700
+
+    Update README.md
+
+[33mcommit 4e33e6a88e58577b8b3892a131907234ce84799d[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Dec 3 20:32:13 2017 +0700
+
+    Added Google Analytics
+
+[33mcommit 137f0de88e0f359056a2fdda69b7c45871adecc1[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Dec 3 20:10:00 2017 +0700
+
+    Update README.md
+
+[33mcommit e38747ee13877a68fa31a7314b64c0ccf0e9627a[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Dec 3 20:09:07 2017 +0700
+
+    Reverted a header image change
+
+[33mcommit fab59360d72d72c9b0c9dd4f042c4a41dd412ad8[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Dec 3 19:59:30 2017 +0700
+
+    Update README.md
+
+[33mcommit 3662400717e30f1371cf8181a7336edbee70e8f4[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Dec 3 19:58:34 2017 +0700
+
+    Further optimized the header image and added profile picture
+
+[33mcommit 622ea273852989241a1f41ed65f2209f5cec1151[m
+Merge: 102b105 d79e9ce
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Dec 3 19:52:59 2017 +0700
+
+    Merge branch 'master' of https://github.com/tbakerx/react-resume-template
+
+[33mcommit 102b105dcf8afab5853e03d1652073286ba7f585[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Dec 3 19:52:50 2017 +0700
+
+    Further optimized the header image
+
+[33mcommit d79e9ce5505d9f34da105edfbf50e8ed4eb47d03[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Dec 3 19:46:02 2017 +0700
+
+    Update README.md
+
+[33mcommit a131f9bd88313e8eac81206a7357d329cbcd204f[m
+Merge: 21fcbd5 5d0daee
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Dec 3 19:45:11 2017 +0700
+
+    Merge branch 'master' of https://github.com/tbakerx/react-resume-template
+
+[33mcommit 21fcbd5b8eb12e6a7ed9df8c2e94993dc4c58b22[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Dec 3 19:44:53 2017 +0700
+
+    Optimized the header image and fixed the skill message
+
+[33mcommit 5d0daee8fae18350e641904189eecbe82ba73d11[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Dec 3 19:32:49 2017 +0700
+
+    Update README.md
+
+[33mcommit f3c10c118450480d1b4407de6c142b7f01a3ebbd[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Dec 3 19:16:55 2017 +0700
+
+    Updated README with live demo link
+
+[33mcommit 8f9c20d408f220862b3e6a7bb0a01cbe1a479aa6[m
+Merge: 26d0f94 1c2903d
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Dec 3 19:13:13 2017 +0700
+
+    Merge branch 'master' of https://github.com/tbakerx/react-resume-template
+
+[33mcommit 26d0f9472c83a567ba99d80ffe6b480349f003db[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Dec 3 19:12:44 2017 +0700
+
+    Added a field for the skills message in JSON file
+
+[33mcommit 1c2903dbe445b63b589f87d8c0cc3d9b3544d37c[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Dec 3 19:05:26 2017 +0700
+
+    Update index.html
+
+[33mcommit 3a181782fd238629e5011302b5a5b2d554c9addd[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Dec 3 19:04:56 2017 +0700
+
+    Update App.js
+
+[33mcommit 34d2f032f8563af805ff9b387230cd0b6515f4b7[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Dec 3 19:01:18 2017 +0700
+
+    Fixes mixed content issues with serving secure content
+
+[33mcommit 395a7c17096635fedc85ffa57a378c727826dfc2[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Dec 3 18:51:15 2017 +0700
+
+    Updated README
+
+[33mcommit 93bf947a884f65456dd82a5e84f0428742e38a6b[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Dec 3 17:51:08 2017 +0700
+
+    Updated README
+
+[33mcommit ef77ea2bec73b57b09e659be2e3d2a41b4a481d9[m
+Author: Tim Baker <tbakerx@gmail.com>
+Date:   Sun Dec 3 17:13:14 2017 +0700
+
+    Pushing local code for finished template
