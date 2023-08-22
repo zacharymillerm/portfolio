@@ -307,7 +307,7 @@ export const contact: ContactSection = {
     },
     {
       type: ContactType.Github,
-      text: 'tbakerx',
+      text: 'zacharymillerm',
       href: 'https://github.com/zacharymillerm',
     },
   ],
@@ -317,7 +317,7 @@ export const contact: ContactSection = {
  * Social items
  */
 export const socialLinks: Social[] = [
-  {label: 'Github', Icon: GithubIcon, href: 'https://github.com/tbakerx'},
+  {label: 'Github', Icon: GithubIcon, href: 'https://github.com/zacharymillerm'},
   // {label: 'Stack Overflow', Icon: StackOverflowIcon, href: 'https://stackoverflow.com/users/8553186/tim-baker'},
   {label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/zm0818/'},
   // {label: 'Instagram', Icon: InstagramIcon, href: 'https://www.instagram.com/reactresume/'},
