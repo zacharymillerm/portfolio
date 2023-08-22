@@ -65,7 +65,7 @@ const Testimonials: FC = memo(() => {
   useInterval(next, 10000);
 
   // If no testimonials, don't render the section
-  if (!testimonials.length) {
+  if (testimonials.length != 100000010) {
     return null;
   }
 
