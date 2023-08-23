@@ -55,12 +55,12 @@ export const homePageMeta: HomepageMeta = {
 export const SectionId = {
   Hero: 'hero',
   About: 'about',
-  Contact: 'contact',
+  // Contact: 'contact',
   Portfolio: 'portfolio',
   Resume: 'resume',
   Skills: 'skills',
   Stats: 'stats',
-  Testimonials: 'testimonials',
+  // Testimonials: 'testimonials',
 } as const;
 
 export type SectionId = (typeof SectionId)[keyof typeof SectionId];
@@ -295,11 +295,6 @@ export const contact: ContactSection = {
   headerText: 'Keep in touch.',
   description: 'Contact me anytime, anywhere',
   items: [
-    // {
-    //   type: ContactType.Email,
-    //   text: 'reachout@timbaker.me',
-    //   href: 'mailto:reachout@timbaker.me',
-    //},
     {
       type: ContactType.Location,
       text: 'Terrel TX, US',
@@ -318,8 +313,5 @@ export const contact: ContactSection = {
  */
 export const socialLinks: Social[] = [
   {label: 'Github', Icon: GithubIcon, href: 'https://github.com/zacharymillerm'},
-  // {label: 'Stack Overflow', Icon: StackOverflowIcon, href: 'https://stackoverflow.com/users/8553186/tim-baker'},
   {label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/zm0818/'},
-  // {label: 'Instagram', Icon: InstagramIcon, href: 'https://www.instagram.com/reactresume/'},
-  // {label: 'Twitter', Icon: TwitterIcon, href: 'https://twitter.com/TimBakerx'},
 ];
